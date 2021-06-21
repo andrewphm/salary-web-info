@@ -7,4 +7,4 @@ Utilizes:
 - DOM 
 
 
-Click [here](http://andrewpham.ca/salary-web-info) to view.
+Click [here](http://www.andrewpham.ca/salary-web-info/) to view.
