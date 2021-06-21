@@ -3,7 +3,7 @@ Static web page showing salary information for engineers at different levels and
 
 Utilizes:
 - HTML(forms)/CSS(flex)
-- Vanilla Javascript (dom manipulation)
+- Vanilla Javascript (DOM manipulation)
 - DOM 
 
 
