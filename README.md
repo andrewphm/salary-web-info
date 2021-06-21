@@ -5,3 +5,6 @@ Utilizes:
 - HTML(forms)/CSS(flex)
 - Javascript
 - DOM 
+
+
+Click [here](http://andrewpham.ca/salary-web-info) to view.
