@@ -5,6 +5,7 @@ Utilizes:
 - HTML(forms)/CSS(flex)
 - Vanilla Javascript (DOM manipulation)
 - DOM 
+- Modules (import/export)
 
 
 Click [here](http://www.andrewpham.ca/salary-web-info/) to view.
